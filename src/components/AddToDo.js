@@ -35,7 +35,7 @@ const AddToDo = ({ addTodo }) => {
 		
 		</Col>
 		<Col xs="auto" className="my-1">
-		<Button type="submit">Add Todo</Button>
+		<Button type="submit">Add Task</Button>
 		</Col>
 	</Row>
 	<br/>

@@ -5,7 +5,7 @@ const Header = () => {
         <div>
             <Navbar bg="light" >
                 <Container className="justify-content-center">
-                <Navbar.Brand>Todo List With REST API</Navbar.Brand>
+                <Navbar.Brand>"That Simple Task Manager Web App"</Navbar.Brand>
                 </Container>
             </Navbar>
         </div>
